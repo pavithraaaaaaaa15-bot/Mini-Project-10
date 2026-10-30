@@ -1,0 +1,16 @@
+﻿Epoch  1000 | Loss: 0.021201
+Epoch  2000 | Loss: 0.002787
+Epoch  3000 | Loss: 0.001261
+Epoch  4000 | Loss: 0.000773
+Epoch  5000 | Loss: 0.000545
+Epoch  6000 | Loss: 0.000415
+Epoch  7000 | Loss: 0.000333
+Epoch  8000 | Loss: 0.000276
+Epoch  9000 | Loss: 0.000235
+Epoch 10000 | Loss: 0.000204
+
+Final predictions:
+Input: [0 0]  Target: 0  Output: 0.0101  Predicted: 0
+Input: [0 1]  Target: 1  Output: 0.9871  Predicted: 1
+Input: [1 0]  Target: 1  Output: 0.9843  Predicted: 1
+Input: [1 1]  Target: 0  Output: 0.0174  Predicted: 0
